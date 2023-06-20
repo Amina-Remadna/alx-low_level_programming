@@ -1,12 +1,10 @@
 #include "main.h"
 /**
-* main - entry poin
-*
-* Description: print _putchar using putchar prototype
-*
-* Return: Always 0 (Success)
-*/
-intmain(void)
+ * main - Entry point
+ * description: 'prints _putchar to stdout'
+ * Return: always 0
+ */
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
