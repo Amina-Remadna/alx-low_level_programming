@@ -1,7 +1,7 @@
 include "main.h"
 
 /**
- * _isupper -chack if c is upper
+ * _isupper -chack if c letter  is upper
  *
  * @c: input for alphabet
  *
