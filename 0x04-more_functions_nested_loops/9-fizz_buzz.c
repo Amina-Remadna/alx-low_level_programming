@@ -1,4 +1,5 @@
 #include "main.h"
+# include < stdio.h>
 
 /**
  * main - Prints a Fizz Buzz program
@@ -20,8 +21,8 @@ int main(void)
 	printf("Fizz");
 	}
 	else if
-		(x % 5 == 0);
 	{
+		(x % 5 == 0);
 	printf("Buzz");
 	}
 	else
@@ -35,4 +36,5 @@ int main(void)
 	}
 	printf("\n");
 	return (0);
+
 }
