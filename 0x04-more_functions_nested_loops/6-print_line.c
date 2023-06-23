@@ -1,22 +1,25 @@
 #include "main.h"
 
 /**
- * print_line - print a straight line
- *
- * @c: is the number of times the _ character
- * should be printed
+ * print_line - Draws a straight line according to parameter
+ * @n: The number of lines to draw
+ * Return: empty
  */
 
 void print_line(int n)
 {
-	int InChr;
+	int x;
 
 	if (n <= 0)
-		_putchr('\n');
+	{
+	_putchar('\n');
+	}
 	else
 	{
-		for (InChr = 1; InChr <= n; InChr++)
-			_putchar('_');
-		_putchar('\n');
+	for (x = 0; x < n; x++)
+	{
+	_putchar(95);
+	}
+	_putchar('\n');
 	}
 }
