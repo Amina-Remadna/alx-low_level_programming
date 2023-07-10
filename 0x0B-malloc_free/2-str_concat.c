@@ -19,7 +19,7 @@ int _strlen(char *s)
  * @s2: string 2
  * Return: pointer
  */
-char *str_concat(char  *sl, char *s2)
+char *str_concat(char *sl, char *s2)
 {
 	int size1, size2, i;
 	char *m;
