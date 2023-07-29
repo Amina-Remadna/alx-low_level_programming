@@ -5,7 +5,7 @@
  * @n: the number of arguments
  * @...: the integers to sum
  *
- * Return: the integersum
+ * Return: the integer sum
  */
 int sum_them_all(const unsigned int n, ...)
 {
