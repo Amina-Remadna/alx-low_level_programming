@@ -26,6 +26,5 @@ else if (val * val < n)
 	return (squre(n, val + 1));
 else
 	return (-1);
-
 }
  
