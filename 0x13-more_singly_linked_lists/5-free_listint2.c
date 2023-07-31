@@ -2,7 +2,7 @@
 
 /**
  * free_listsint2 - frees a list of ints
- * @head: adress of pointer to first node
+ * @head: address of pointer to first node
  *
  * Return: void
  */
