@@ -3,7 +3,7 @@
 /**
  * add_nodeint - adds a node to the top
  * @head: pointer to first node
- * @h: value for new node
+ * @n: value for new node
  *
  * Return: pointer to new node
  */
