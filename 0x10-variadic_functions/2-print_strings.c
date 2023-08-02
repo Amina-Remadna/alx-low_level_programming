@@ -3,7 +3,7 @@
 /**
  * print_strings - prints strings with separator
  * @separator: the string separator
- * @n: the strings arguments
+ * @n: the numbers of arguments
  * @...: the strings to print
  *
  * Return: void
